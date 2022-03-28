@@ -1,6 +1,4 @@
-package main
-
-import "golang.org/x/tools/container/intsets"
+package list
 
 /*
 	链表由一个个数据节点组成的, 它是一个递归结构,要么它是空的, 要么它存在一个
